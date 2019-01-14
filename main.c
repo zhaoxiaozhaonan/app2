@@ -5,4 +5,5 @@ void main()
     printf("fd");
     printf("zjx");
     scanf();
+    printf("";)
 }
